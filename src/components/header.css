@@ -1,0 +1,25 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: orange;
+    color: whitesmoke;
+    height: 35px;
+}
+
+.mainTitle{
+    margin-left: 35px;
+}
+
+.linkBtn{
+    background-color: orange;
+    color: whitesmoke;
+    border: none;
+    margin-right: 15px;
+    padding: 10px;
+    font-weight: bolder;
+}
+
+.linkBtn:hover{
+    background-color: rgb(247, 192, 89);
+}
